@@ -49,7 +49,7 @@ const galleryData = [
     material: "PLA (Blue)",
     printer: "Bambu Lab H2D",
     settings: "0.15mm layer height · 10% infill · 2 perimeters",
-    description: "A desktop gyroscope with three concentric rings printed in-place. Silk Gold PLA gives a luxurious metallic sheen. The 0.2mm ring clearances required careful first-layer squish calibration — a single step too far and the rings fuse permanently.",
+    description: "A bright teal, 3D-printed vertical stand or bracket featuring a stylized geometric design with the cutout letters HR integrated into the top frame. It is resting on a black desk in front of a computer monitor or 3D printer enclosure.",
     gradient: "linear-gradient(135deg, #78350F 0%, #D97706 50%, #FDE68A 100%)",
   },
   {
@@ -61,7 +61,7 @@ const galleryData = [
     material: "PETG (Matte Black)",
     printer: "Bambu Lab H2D",
     settings: "0.15mm layer height · 30% infill · 4 perimeters",
-    description: "A minimal desk phone stand optimized for a 15° eye-level viewing angle during video calls. The wide weighted base prevents tipping even with the heaviest cased phones. PETG was chosen for its slight flex-resistance and clean surface finish straight off the H2D.",
+    description: "A minimal desk phone stand optimized for a 15° eye-level viewing angle during video calls. The wide weighted base prevents tipping even with the heaviest cased phones. PETG was chosen for its slight flex-resistance and clean surface finish straight off the H2D.A rugged, 3D-printed storage case or deck box styled in black and teal. The top lid features the prominent raised text BEYBLADE X alongside Japanese katakana, sitting right in front of a mechanical gaming keyboard with purple and black keycaps.",
     gradient: "linear-gradient(135deg, #164E63 0%, #0891B2 50%, #67E8F9 100%)",
   },
   {
@@ -73,7 +73,7 @@ const galleryData = [
     material: "PLA",
     printer: "Bambu Lab H2D",
     settings: "0.12mm layer height · Vase mode · 0.6mm nozzle",
-    description: "Printed in spiral vase mode — single continuous perimeter, no top or bottom — this Voronoi lattice diffuses light beautifully when backlit. The Silk Rose Gold PLA creates an almost translucent shimmer. A thin PETG insert makes it watertight for real flowers.",
+    description: "A clean, white 3D-printed costume mask being held up by a hand. The mask features an otherworldly or fantasy-inspired aesthetic, complete with four eye cutouts, pointed ears, small fangs on the lower jaw line, and a molded septum ring.",
     gradient: "linear-gradient(135deg, #831843 0%, #DB2777 50%, #F9A8D4 100%)",
   },
   {
@@ -85,7 +85,7 @@ const galleryData = [
     material: "PLA",
     printer: "Bambu Lab H2D",
     settings: "0.2mm layer height · 60% infill · 5 perimeters · 0.6mm nozzle",
-    description: "A motor mount prototype for a custom fixed-wing RC build. PETG's stiffness-to-weight ratio and layer adhesion made it the right call here. Three iterations were needed to optimize wall angles for maximum strength under vibration load.",
+    description: "A 3D-printed circular award trophy featuring a black face with a white logo that reads NCBC, cleverly stylized to look like a Beyblade ripcord and launcher spin graphic. The base is silver/gray and features a small label that reads Trailside Tumble.",
     gradient: "linear-gradient(135deg, #292524 0%, #78716C 50%, #D6D3D1 100%)",
   },
 ];
